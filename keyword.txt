@@ -1,5 +1,0 @@
-JoeBiden:Joe Biden.jpg
-DonaldTrump:Donald Trump.jpg
-BarackObama:Barack Obama.jpg
-XiJinping:Xi Jinping.jpg
-VladimirPutin:Vladimir Putin.jpg
