@@ -1,0 +1,11 @@
+JoeBiden:Joe Biden.jpg
+DonaldTrump:Donald Trump.jpg
+BarackObama:Barack Obama.jpg
+XiJinping:Xi Jinping.jpg
+VladimirPutin:Vladimir Putin.jpg
+shakes:hand shakes.jpg
+hug:hug.jpg
+hug:hug2.jpg
+hug:hug3.jpg
+loves:love.jpg
+modi:modi.jpg
